@@ -1,6 +1,6 @@
 ### Hi there 👋
     - 🌱 I’m currently learning Java
-    - 🔭 I’m currently working on a game in Java without the use of libraries or other 3rd party code in order to learn
+    - 🔭 I’m currently working on a game in Java without the use of libraries or other 3rd party code for learning purposes
 
 <!--
 **Conrad49/Conrad49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
